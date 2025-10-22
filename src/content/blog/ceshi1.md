@@ -1,9 +1,9 @@
 ---
-title: 'aaaaaaaaaa'
+title: 'A Brief Treatise on the Colour of Tuesdays'
 description: |
   A completely serious and not-at-all-scientific investigation into why Tuesday feels overwhelmingly beige.
   It is the colour of lukewarm tea, forgotten spreadsheets, and a general lack of drama.
-pubDate: 'Aug 28 2025'
+pubDate: 'Aug 28 2024'
 coverImageCredit: 'Sindy Süßengut, Unsplash'
 ---
 
