@@ -14,9 +14,9 @@ export default defineConfig({
     site: 'https://yashjawale.github.io',
     base: '',
     // base: '/china-local-guide',
-    optimize: {
-        css: false
-    },
+    // optimize: {
+    //     css: false
+    // },
     integrations: [
         mdx(),
         sitemap(),
