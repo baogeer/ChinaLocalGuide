@@ -3,7 +3,9 @@
 
 export const SITE_TITLE = 'Ask China'
 export const SITE_DESCRIPTION = "Questions about China? Go to Ask China. Discover a real China with Ask China, a global Q&A community connecting you with the experts on China. "
-export const SITE_BASE = '111111111'
+
+// 这里是一级路由
+export const SITE_BASE = ''
 export const SocialLinks = [
     {
         name: 'LinkedIn',
