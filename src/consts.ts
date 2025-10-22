@@ -7,7 +7,8 @@ export const SITE_DESCRIPTION = 'china-local-guide  desc'
 // If you deploy to a subdirectory, set the `WEBSITE_BASE` here.
 // e.g. '/blog' if you are deploying to example.com/blog
 // Leave it as an empty string if you are deploying to a root domain (e.g. example.com)
-export const SITE_BASE = '/china-local-guide'
+export const SITE_BASE = ''
+// export const SITE_BASE = '/china-local-guide'
 
 export const SocialLinks = [
 	{
