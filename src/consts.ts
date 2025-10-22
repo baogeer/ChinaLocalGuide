@@ -24,13 +24,10 @@ export const SocialLinks = [
 ]
 
 export const WebsiteLinks = [
-    // {
-    //     name: 'Home',
-    //     url: '',
-    // },
     {
-        name: 'Blog',
-        url: 'blog',
+        name: 'Ask China',
+        url: 'ask-china',
+        // url: 'ask-china',
     },
     {
         name: 'About',
