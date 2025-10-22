@@ -13,6 +13,7 @@ import {remarkModifiedTime} from './src/plugins/remark-modified-time.mjs'
 export default defineConfig({
     site: 'https://yashjawale.github.io',
     base: '/china-local-guide',
+    // base: '/china-local-guide',
     optimize: {
         css: false
     },
